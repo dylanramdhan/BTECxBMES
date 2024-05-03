@@ -5,8 +5,8 @@ BTEC x BMES, 2023-2024 Competition
 In this competiton, we were tasked to develop a product from 3 separate tracks.
 
 ## Contributors
-Aiden Ly [Team Lead] (lyaiden@bu.edu) <br>
-Shangmin Chen [Software Dev Lead] (shangmin@bu.edu) <br>
-Shawn Dong [CAD Engineer Lead] (dyst@bu.edu) <br>
-Josh Korb [R&B Engineer Lead] (jkorb@bu.edu) <br>
-Dylan Ramdhan [Network Engineer Lead] (dylram01@bu.edu)
+Aiden Ly _[Team Lead]_ (lyaiden@bu.edu) <br>
+Shangmin Chen _[Software Dev Lead]_ (shangmin@bu.edu) <br>
+Shawn Dong _[CAD Engineer Lead]_ (dyst@bu.edu) <br>
+Josh Korb _[R&B Engineer Lead]_ (jkorb@bu.edu) <br>
+Dylan Ramdhan _[Network Engineer Lead]_ (dylram01@bu.edu)
