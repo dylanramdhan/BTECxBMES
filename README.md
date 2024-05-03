@@ -5,8 +5,8 @@ BTEC x BMES, 2023-2024 Competition
 In this competiton, we were tasked to develop a product from 3 separate tracks.
 
 ## Contributors
-Aiden Ly (lyaiden@bu.edu)
-Shangmin Chen (shangmin@bu.edu)
-Shawn Dong (dyst@bu.edu)
-Josh Korb (jkorb@bu.edu)
+Aiden Ly (lyaiden@bu.edu) <br>
+Shangmin Chen (shangmin@bu.edu) <br>
+Shawn Dong (dyst@bu.edu) <br>
+Josh Korb (jkorb@bu.edu) <br>
 Dylan Ramdhan (dylram01@bu.edu)
